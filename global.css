@@ -5,7 +5,6 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  cursor: crosshair;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Bitter:wght@400;900&family=Rubik:wght@600&display=swap");
